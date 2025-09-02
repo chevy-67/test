@@ -1,1 +1,1 @@
-print('this is sample prog')
+print('this is sample program')
